@@ -1,0 +1,1 @@
+just some simple implementation of composite quadratures (Gauss-Chebyshev of 1 and 2 kind, Gauss-Legendre, Gauss-Lobatto and Newton-Cotes) to compute in parallel using java's RecursiveTask.
